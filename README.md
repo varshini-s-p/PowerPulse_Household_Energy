@@ -70,7 +70,7 @@ The dataset includes time-stamped household power consumption data with features
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Languages**: Python, Pandas, NumPy
 - **ML Models**: scikit-learn, Random Forest, Linear Regression, Neural Network
