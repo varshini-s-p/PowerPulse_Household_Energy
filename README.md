@@ -1,5 +1,5 @@
 
-#  PowerPulse: Household Energy Consumption Forecasting
+#  PowerPulse: Household Energy Usage Forecast
 
 This project focuses on analyzing and forecasting household energy consumption using real-world electricity usage data. By leveraging machine learning models and visualizations, it aims to encourage smarter energy practices, reduce costs, and support sustainability efforts.
 
